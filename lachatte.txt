@@ -1,2 +1,0 @@
-Ok, I add some text inside this demo.txt to remind myself how to save everything and to see if we can modify the name without changing what is inside.
-Hehehe84

@@ -1,10 +1,6 @@
 #ReadmE 2
-
-our second Hello World (again)
-
-## Second title
-
-learn git
+Learn git and GitHub from zero to Hero !!!
+*
 
 
 modification to validate 
